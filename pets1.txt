@@ -3,3 +3,5 @@ black
 white
 Mokki
 Moffa
+Jukka
+Lokka
